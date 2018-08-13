@@ -10,8 +10,6 @@
     <el-input placeholder="elinput输入框">a</el-input>
     <input placeholder="input输入框b">b</input>
 
-
-
   </div>
 </template>
 
